@@ -7,4 +7,4 @@ Here i we have created a comprehensive dashboard for SUPER STORE ECOM LTD., an o
 * Sales by Sub_Category
 
 Dataset Screenshot (Csv file)...
-[Super Store.csv](https://github.com/user-attachments/files/15752858/Super.Store.csv)
+![Screenshot (47)](https://github.com/SaindhruvSoni/SuperStore_Ecom-Dashboard/assets/91562392/231f810f-acdd-4f12-92f9-0d87bb995643)
